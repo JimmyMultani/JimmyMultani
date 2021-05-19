@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there! 👋
+
+My name is Jimmy, and I am currently working at [Rakuten Rewards](https://rakuten.com) as a Sr. Software Engineer.
+
+I hail from Toronto, Ontario. 🇨🇦
+
+Here are a few things about me:
+- I'm a huge gamer 🎮
+- I'm still learning how to use my Ergo keyboards ⌨️
+- I have a son and partner, whom I love dearly ❤️
+- I love to socialize with my crew 🍻
 
 <!--
 **JimmyMultani/JimmyMultani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
