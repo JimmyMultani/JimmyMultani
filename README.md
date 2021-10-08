@@ -1,11 +1,11 @@
 ### Hey there! 👋
 
-My name is Jimmy, and I am currently working at [Rakuten Rewards](https://rakuten.com) as a Sr. Software Engineer.
+My name is Jimmy, and I work at [Rakuten Rewards](https://rakuten.com) as a Staff Software Engineer.
 
-I hail from Toronto, Ontario. 🇨🇦
+I hail from Toronto, Ontario. Born and raised! 🇨🇦
 
 Here are a few things about me:
-- I'm a huge gamer 🎮
+- I love playing video games 🎮
 - I'm still learning how to use my Ergo keyboards ⌨️
 - I have a son and partner, whom I love dearly ❤️
 - I love to socialize with my crew 🍻
