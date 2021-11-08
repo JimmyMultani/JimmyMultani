@@ -4,7 +4,11 @@ My name is Jimmy, and I work at [Rakuten Rewards](https://rakuten.com) as a Staf
 
 I hail from Toronto, Ontario. Born and raised! 🇨🇦
 
-Here are a few things about me:
+🔭 I’m currently working on:
+- Serverless / Lambda functions 🐑
+- SSR with React and NextJS ⚛️
+
+💬 Here are some things about me:
 - I love playing video games 🎮
 - I'm still learning how to use my Ergo keyboards ⌨️
 - I have a son and partner, whom I love dearly ❤️
