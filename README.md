@@ -6,7 +6,8 @@ I hail from Toronto, Ontario. Born and raised! 🇨🇦
 
 🔭 I’m currently working on:
 - Serverless / Lambda functions 🐑
-- SSR with React and NextJS ⚛️
+- SSR with React Query and NextJS ⚛️
+- Writing ExpessJS APIs ⏩
 
 💬 Here are some things about me:
 - I love playing video games 🎮
