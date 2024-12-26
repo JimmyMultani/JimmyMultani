@@ -2,17 +2,17 @@
 
 My name is Jimmy, and I work at [Rakuten Rewards](https://rakuten.com) as a Staff Software Engineer.
 
-I hail from Toronto, Ontario. Born and raised! 🇨🇦
+I exist in the Greater Toronto Area. Most of the time. 🇨🇦
 
 🔭 I’m currently working on:
-- Serverless / Lambda functions 🐑
-- SSR with React Query and NextJS ⚛️
-- Writing ExpessJS APIs ⏩
+- Shell frameworks for Web Applications 🏗️
+- CSR/SSR with React Query and NextJS ⚛️
+- Localization 🌎
 
 💬 Here are some things about me:
 - I love playing video games 🎮
-- I'm still learning how to use my Ergo keyboards ⌨️
-- I have a son and partner, whom I love dearly ❤️
+- I'm restoring wooden furniture to furnish our house 🪵
+- I have two sons and a partner, whom I love dearly ❤️
 - I love to socialize with my crew 🍻
 
 <!--
