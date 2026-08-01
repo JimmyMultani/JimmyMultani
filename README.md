@@ -7,6 +7,7 @@ I exist in the Greater Toronto Area. Most of the time. 🇨🇦
 🔭 I’m currently working on:
 - Shell frameworks for Web Applications 🏗️
 - CSR/SSR with React Query and NextJS ⚛️
+- Module Federation :atom:
 - Localization 🌎
 
 💬 Here are some things about me:
